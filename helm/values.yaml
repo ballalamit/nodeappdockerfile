@@ -10,7 +10,7 @@ application:
 replicaCount: 1
 
 image:
-  repository: amit1017.azurecr.io/sampleapp
+  repository: amit1017.azurecr.io/sampleapp:61
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   
